@@ -1,2 +1,4 @@
-# fuse-product-matcher
-Microservice to match products using Fuse.js for Smart EA Store
+# Fuse Product Matcher
+
+Microservice for matching EA products using Fuse.js.
+
